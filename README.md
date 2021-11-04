@@ -19,3 +19,7 @@ Tools:
 I will use python because it contains libraries for Machine Learning also for exploratory analysis and data cleaning will use (pandas, Matplotlib, NumPy ,etc.).
 
 
+
+
+#artificial-intelligence
+#machine-learning
